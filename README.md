@@ -1,6 +1,6 @@
 # Small-Frontend-applications
 
-This repository contains a collection of small Front-end applications i've created to better enhance my understanding of the basic web development languages: HTML, CSS & JS languages and how they work together.
+This repository contains a collection of small Frontend applications i've created to better enhance my understanding of the basic web development languages: HTML, CSS & JS languages and how they work together.
 
 ---
 
